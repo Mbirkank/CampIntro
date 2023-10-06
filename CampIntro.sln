@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{00ECD63A-F29D-4CDE-956C-CA0B6D1E53D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions2", "Exceptions2\Exceptions2.csproj", "{B6AEFAEC-2CCA-4137-816E-A7F285AD01BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{00ECD63A-F29D-4CDE-956C-CA0B6D1E53D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00ECD63A-F29D-4CDE-956C-CA0B6D1E53D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00ECD63A-F29D-4CDE-956C-CA0B6D1E53D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AEFAEC-2CCA-4137-816E-A7F285AD01BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AEFAEC-2CCA-4137-816E-A7F285AD01BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AEFAEC-2CCA-4137-816E-A7F285AD01BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AEFAEC-2CCA-4137-816E-A7F285AD01BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
