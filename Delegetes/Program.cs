@@ -14,6 +14,7 @@ namespace Delegates
             CustomerManager customerManager = new CustomerManager();
             MyDelegate myDelegate = customerManager.SendMessage;
             myDelegate += customerManager.ShowAllert;
+            myDelegate -= customerManager.SendMessage;
             myDelegate();
 
         }
